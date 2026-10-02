@@ -9,11 +9,11 @@ PublisherUrl: https://github.com/MKAbuMattar
 PublisherSupportUrl: https://github.com/MKAbuMattar/sarab/issues
 Author: MKAbuMattar
 PackageName: Sarab
-PackageUrl: https://sarab.mkabumattar.com/
+PackageUrl: https://github.com/MKAbuMattar/sarab/
 License: GPL-3.0-only
-LicenseUrl: https://github.com/MKAbuMattar/sarab/blob/main/LICENSE
+LicenseUrl: https://raw.githubusercontent.com/MKAbuMattar/sarab/main/LICENSE
 Copyright: Copyright (C) Sarab contributors
-CopyrightUrl: https://github.com/MKAbuMattar/sarab/blob/main/LICENSE
+CopyrightUrl: https://raw.githubusercontent.com/MKAbuMattar/sarab/main/LICENSE
 ShortDescription: Animated desktop wallpapers for Windows that rest when you work.
 Description: |-
   Sarab plays videos, GIFs, web pages and pictures behind your desktop icons on every display.
